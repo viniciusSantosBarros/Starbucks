@@ -126,24 +126,4 @@
            gap: 24px;
         }
     }
-
-    #products{
-        min-height: 100vh;
-        gap: 8rem;
-
-        .products-cards{
-            flex-direction: row;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 24px;
-
-            background-color: aquamarine;
-
-            .product-card{
-                img{
-                    width: 250px;
-                }
-            }
-        }
-    }
 }
